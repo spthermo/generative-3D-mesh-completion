@@ -58,34 +58,37 @@ and use your browser to access the localhost at the specified port.
 Some indicative 3DShapeNet samples (using "chair" meshes) in "real-noisy-generated" triplet form:
 
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_1.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_2.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_3.png" width="200">
-___
+
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_4.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_5.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_6.png" width="200">
 
-
+___
 
 
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/2_1.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/2_2.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/2_3.png" width="200">
-___
+
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/2_4.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/2_5.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/2_6.png" width="200">
 
-
+___
 
 
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/3_1.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/3_2.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/3_3.png" width="200">
-___
+
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/3_4.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/3_5.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/3_6.png" width="200">
+
+___
+
 
 More challenging examples:
 
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/4_1.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/4_2.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/4_3.png" width="200">
-___
+
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/4_4.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/4_5.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/4_6.png" width="200">
 
-
+___
 
 
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/5_1.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/5_2.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/5_3.png" width="200">
-___
+
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/5_4.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/5_5.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/5_6.png" width="200">
 
 ## To do
