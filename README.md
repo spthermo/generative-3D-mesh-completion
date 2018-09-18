@@ -96,9 +96,8 @@ Add a local discriminator and test it on unseen 3D meshes.
 
 
 ## Acknowledgement
-The Tensorboard support is provided from [yunjey](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard).
-
-[Visdom]((https://github.com/facebookresearch/visdom)) visualization tool - Facebook research
+- The Tensorboard support is provided from [yunjey](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard).
+- [Visdom](https://github.com/facebookresearch/visdom) visualization tool - Facebook research
 
 
 ### Similar projects:
