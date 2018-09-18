@@ -1,5 +1,5 @@
 # Generative 3D Mesh Completion
-This work extends the potential of the GANs to the 3D domain. The presented 3D GAN (generator-discriminator) receives corrupted 3D meshes of 3DShapeNet and generates "denoised" samples. The 3D meshes are corrupted at random positions with "cuboid" noise. Some indicative results are under the "examples directory".
+This work extends the potential of the GANs to the 3D domain. The presented 3D GAN (generator-discriminator) receives corrupted 3D meshes of [ShapeNet](https://www.shapenet.org/) and generates "denoised" samples. The 3D meshes are corrupted at random positions with "cuboid" noise. Some indicative results are under the "examples directory".
 
 ## Prerequisites
 The architecture has been implemented using the following:
@@ -39,7 +39,7 @@ Discriminator details:
 
 
 
-## Training with CelebA
+## Training with ShapeNet
 The generator (completion netwrok) is initially warmed up for 20 epochs. After that, both the generator and disriminator are trained for 80 epochs. Train using:
 
 ```
