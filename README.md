@@ -55,7 +55,7 @@ and use your browser to access the localhost at the specified port.
 
 
 ## 3D mesh completion examples
-Some indicative 3DShapeNet samples (using "chair" meshes) in "real-noisy-generated" triplet form:
+Some indicative ShapeNet samples (using "chair" meshes) in "real-noisy-generated" triplet form:
 
 <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_1.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_2.png" width="200"> <img src="https://github.com/spthermo/generative-3D-mesh-completion/blob/master/examples/1_3.png" width="200">
 
